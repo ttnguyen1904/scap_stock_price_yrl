@@ -1,4 +1,4 @@
-# scap_stock_price_qurl
+# web_scape_stock_price_qurl
 Webscrapping local bank stock prices
 
 
