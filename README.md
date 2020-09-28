@@ -1,9 +1,9 @@
 # web_scape_stock_price_qurl
-Webscrapping local bank stock prices
+Web scraping local bank stock prices
 
 
 """"""""""""""""""""""""""""""""""
-SCRAPPING WEBSITE
+SCRAPING WEBSITE
 Case: Cafe
 Target data: All listed company information 
 
