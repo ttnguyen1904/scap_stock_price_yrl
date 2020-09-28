@@ -1,6 +1,5 @@
 # web_scape_stock_price_qurl
-Web scraping local bank stock prices
-
+Web scraping local bank stock prices as part of a larger study on banking performance over the course of 5 years as well as getting necessary information to build up a model of stock price in relation to its performance indicators.
 
 """"""""""""""""""""""""""""""""""
 SCRAPING WEBSITE
